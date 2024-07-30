@@ -1,8 +1,12 @@
 package VedeoGameProject.VedeoGameProject;
 
-import org.junit.jupiter.api.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
+
+
+
+import static org.testng.Assert.assertTrue;
+
+import org.testng.annotations.Test;
 
 public class AppTest {
     
