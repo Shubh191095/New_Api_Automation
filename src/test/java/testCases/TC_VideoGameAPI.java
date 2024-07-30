@@ -13,7 +13,7 @@ import java.util.HashMap;
 
 
 public class TC_VideoGameAPI {
-	//Try to run all 5 types of API
+	//Try to run all 5 types of API..
 	//1st is GET request
 	//Implementation notes->Returns all video games in the DB
 	
